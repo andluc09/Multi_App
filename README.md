@@ -5,6 +5,10 @@
 <br><br>Multi APP criado utilizando React.JS, API TMDB e JWT (JSON Web Tokens)
 </h1>
 
+<h1 align="center">
+    🔒 MULTI APP 🖥️
+</h1>
+
 Aplicação que oferece múltiplas funcionalidades empregando autenticação, modularização e manipulação de cache. 
 
 Link para o Vercel (implantação em produção): https://multi-akvzyddz7-andre-lucas-de-macedo-santos-projects.vercel.app/
